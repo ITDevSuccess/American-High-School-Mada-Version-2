@@ -6,4 +6,4 @@ def get(request):
     context = {
         'path': request.path
     }
-    return render(request, 'home/get', context)
+    return render(request, 'home/get.html', context)

@@ -1,0 +1,9 @@
+#header h1 a {
+  display: inline-block;
+  background-image: url('icon.ico');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 200px; /* Ajustez la largeur selon vos besoins */
+  height: 50px; /* Ajustez la hauteur selon vos besoins */
+  text-indent: -9999px; /* Cache le texte du titre */
+}
